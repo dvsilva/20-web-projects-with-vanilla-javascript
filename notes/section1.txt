@@ -1,0 +1,23 @@
+vscode plugins
+- prettier
+- emmet
+- auto rename tag
+- bracket pair colorizer
+- javascript (es6) code snnipets
+- live server
+
+settings json
+- fontsize
+- wordwrap
+- prettier
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
+- enable format on save
+
+examples commands
+! -> snnipets for html
+div.test -> create div with class test
+div#test -> create div with id test
+
+github code
+https://github.com/bradtraversy/vanillawebprojects
